@@ -1,0 +1,30 @@
+[
+    {
+        "label": "Home",
+        "path": "/"
+        
+    },
+    {
+        "label": "Enhanched Search AI",
+        "path": "/search-ai"
+       
+    },
+    {
+        "label": "Insights",
+        "path": "/"
+      
+    },
+    {
+        "label": "Lifestyle",
+        "path": "/lifestyle-blog" 
+    },
+    {
+        "label": "Budget App",
+        "path": "/BudgetingApp"
+    },
+   
+    {
+        "label": "Gadgets",
+        "path": "/tech-blog"
+    }
+]
