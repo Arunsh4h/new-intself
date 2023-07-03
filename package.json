@@ -6,10 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    // "lint": "next lint"
   },
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
+    "@fontsource/josefin-sans": "^4.5.12",
+    "@fontsource/quicksand": "^4.5.12",
     "bootstrap": "^5.2.3",
     "framer-motion": "^6.5.1",
     "fs": "^0.0.1-security",
