@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import { slugify } from "../../../../utils";
-import "@fontsource/quicksand";
-import "@fontsource/josefin-sans";
+// import "@fontsource/quicksand";
+// import "@fontsource/josefin-sans";
 
 const PostMetaOne = ({ metaData, content }) => {
   return (
